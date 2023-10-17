@@ -32,7 +32,7 @@ img.bulb-off {
 
 .button-container {
     position: absolute;
-    bottom: 20px; 
+    bottom: 22px; 
     display: flex;
     gap: 10px; 
 }
