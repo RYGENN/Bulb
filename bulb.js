@@ -1,4 +1,3 @@
-
 function bulbOn(){
     let light=document.querySelector(".bulb-off");
     console.log(light)
